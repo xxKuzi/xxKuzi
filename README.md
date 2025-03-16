@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 Kuba here!
+
+Web + mobile apps developer :)
+
+
 
 <!--
 **xxKuzi/xxKuzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
