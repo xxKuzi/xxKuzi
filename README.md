@@ -20,14 +20,15 @@ But if you want more...
 
 ## 📌 **Projects**
 💡 Some of my work:  
-- 🚀 **[React Eshop](https://github.com/yourusername/react-dashboard)** – A fully functional e-shop with Stripe payments  
-- 🏆 **[Smart Glasses Website](https://github.com/yourusername/portfolio)** – A website for our school AI project  
-- 📊 **[Tauri App for Basketball Feeder](https://github.com/yourusername/sql-analysis)** – React + Rust with motor control, SQLite database, and BLE communication  
+- 🚀 **[React Eshop](https://github.com/xxKuzi/Eshop)** – A fully functional e-shop with Stripe payments  
+- 🏆 **[Smart Glasses Website](https://github.com/xxKuzi/VisionNex)** – A website for our school AI project  
+- 📊 **[Tauri App for Basketball Feeder](https://github.com/xxKuzi/Feeder)** – React + Rust with motor control, SQLite database, and BLE communication  
 
 ---
 
 ## 🎯 **Currently Learning & Working On**
-- 🔹 Developing a **basketball feeder** (Rust motor control + BLE remote control)  
+- 🔹 Developing a **basketball feeder** (Rust motor control + BLE remote control) + mobile **react native** - remote control
+- 🔹 Building my own **portfolio** website
 - 🔹 Building a **React Native app** for self-development  
 - 🔹 Exploring **Next.js**  
 
