@@ -22,7 +22,7 @@ But if you want more...
 💡 Some of my work:  
 - 🚀 **[React Eshop](https://github.com/xxKuzi/Eshop)** – A fully functional e-shop with Stripe payments  
 - 🏆 **[Smart Glasses Website](https://github.com/xxKuzi/VisionNex)** – A website for our school AI project  
-- 📊 **[Tauri App for Basketball Feeder](https://github.com/xxKuzi/Feeder)** – React + Rust with motor control, SQLite database, and BLE communication  
+- 📊 **[Tauri App for Basketball Feeder](https://github.com/xxKuzi/Feeder)** – React + Rust app with motor control, SQLite database, and BLE communication  
 
 ---
 
