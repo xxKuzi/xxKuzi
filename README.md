@@ -20,17 +20,21 @@ But if you want more...
 
 ## 📌 **Projects**
 💡 Some of my work:  
-- 🚀 **[React Eshop](https://github.com/xxKuzi/Eshop)** – A fully functional e-shop with Stripe payments  
-- 🏆 **[Smart Glasses Website](https://github.com/xxKuzi/VisionNex)** – A website for our school AI project  
-- 📊 **[Tauri App for Basketball Feeder](https://github.com/xxKuzi/Feeder)** – React + Rust app with motor control, SQLite database and BLE communication  
+- 🏆 **[Smart Glasses Website](https://github.com/xxKuzi/VisionNex)** – Showcase website for our AI Smart Glasses project.
+- 🏀 **[Basketball Feeder](https://github.com/xxKuzi/Feeder)** – IoT machine equipped with motors and sensors, powered by a React and Rust app.
+- 🫧 **[Dayora](https://github.com/xxKuzi/Dayora)** – Distraction-free note-taking app featuring AI-driven day planning
+- 🕹️ **[Tutovka](https://github.com/xxKuzi/Tutovka)** – Retro-fitted betting game with virtual currency.
+- 💸 **[React Eshop](https://github.com/xxKuzi/Eshop)** – Fully functional e-shop with Stripe payments  
+
 
 ---
 
 ## 🎯 **Currently Learning & Working On**
-- 🔹 Developing a **basketball feeder** (Rust motor control + BLE remote control) + mobile **react native** - remote control
-- 🔹 Building my own **portfolio** website
-- 🔹 Building a **React Native app** for self-development  
-- 🔹 Exploring **Next.js**  
+- 🔹 Finishing my **portfolio** website - private
+- 🔹 Building **Next.js** Web app for foreign language learning
+- 🔹 Building a **basketball feeder** (Rust motor control + BLE remote control) + mobile **react native** - remote control
+
+
 
 ---
 
