@@ -22,8 +22,9 @@ But if you want more...
 
 *Also:* Auth.js · WebSockets · Drizzle ORM · Neon · Stripe · Gemini API · BLE  
 
+
 ---
-<br>
+
 
 ## 📌 **Projects**
 💡 Some of my work:  
@@ -41,7 +42,6 @@ But if you want more...
 - 🔹 Shipping **KatchUp** – multiplayer language learning in **Next.js**
 - 🔹 Growing the **basketball feeder** ecosystem (Rust motor control + BLE + PWA remote)
 - 🔹 Finishing my **portfolio** website – [jakubkuzel.com](https://jakubkuzel.com)
-
 
 
 ---
